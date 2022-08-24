@@ -1,2 +1,2 @@
 # Portfolio
-Basic Site using HTML5 and CSS3
+Portfolio Site using HTML5 and CSS3
